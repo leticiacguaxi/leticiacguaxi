@@ -1,16 +1,18 @@
-### Hi there 👋
+# Olá, me chamo Letícia! ☕️
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<!--
-**leticiacguaxi/leticiacguaxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  Sou estudante de Análise e Desenvolvimento de Sistemas apaixonada por tecnologia e sempre em busca de novos desafios. Estou mergulhando de cabeça no universo do desenvolvimento de software, e minha jornada tem sido marcada por autodidatismo e muita curiosidade. Atualmente engajada com os estudos em <strong>.NET </strong>.<br>
+  
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  💼 Linguagens: C#, SQL.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  💌 Caso queira entrar em contato comigo: ⤵️
+</p>
+
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/let%C3%ADcia-costa-dev/)" alt="LinkedIn"/></a>
